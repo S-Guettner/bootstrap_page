@@ -1,0 +1,9 @@
+@font-face {
+    font-family:"kashima" ;
+    src: url(../fonts/Kashima\ Demo.otf);
+}
+
+nav,h1{
+    font-family: "kashima", sans-serif !important;
+}
+
