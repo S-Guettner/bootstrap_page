@@ -5,5 +5,14 @@
 
 nav,h1{
     font-family: "kashima", sans-serif !important;
+    
+}
+nav{
+    font-size: 2rem ;
+}
+
+#footerText{
+    font-family: "kashima", sans-serif !important;
+    font-size: 1.5rem;
 }
 
