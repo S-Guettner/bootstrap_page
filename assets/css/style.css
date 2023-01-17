@@ -10,6 +10,9 @@ nav,h1{
 nav{
     font-size: 2rem ;
 }
+h1{
+    font-size: 6rem;
+}
 
 #footerText{
     font-family: "kashima", sans-serif !important;
